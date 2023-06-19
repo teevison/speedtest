@@ -72,7 +72,6 @@ speed_test() {
 speed() {
     speed_test '' 'Speedtest.net'
     speed_test '37566' 'Amsterdam, NL'
-    speed_test '36998' 'Amsterdam, NL'
     speed_test '43860' 'Dallas, US'
     speed_test '40879' 'Montreal, CA'
     speed_test '24215' 'Paris, FR'
@@ -91,12 +90,6 @@ speed() {
     speed_test '6527'  'Seoul, KR'
     speed_test '7311'  'Singapore, SG'
     speed_test '21569' 'Tokyo, JP'
-    speed_test '3633' 'Shanghai,CN CT'
-    speed_test '27594' 'Guangzhou,CN CT'
-    speed_test '4870' 'Changsha,CN CU'
-    speed_test '24447' 'ShangHai,CN CU'
-    speed_test '4575' 'Chengdu,CN CM'
-    speed_test '29105' "Xi'an,CN CM"
 
 }
 
